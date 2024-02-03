@@ -1,0 +1,28 @@
+===============================================================================JQUERY-TUTORIAL===============================================================================================
+what is jquery?
+* jQuery is a JavaScript Library.
+* jQuery greatly simplifies JavaScript programming.
+* jQuery is a lightweight, "write less, do more", JavaScript library.
+* The purpose of jQuery is to make it much easier to use JavaScript on your website.
+* jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+* jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+* The jQuery library contains the following features:
+    --> HTML/DOM manipulation
+    --> CSS manipulation
+    --> HTML event methods
+    --> Effects and animations
+    --> AJAX
+    --> Utilities
+Tip: In addition, jQuery has plugins for almost any task out there.
+
+jQuery is a fast, small, and feature-rich JavaScript library. It simplifies things like HTML document traversal and manipulation, event handling, animation, and Ajax interactions for rapid web development. jQuery allows developers to write fewer lines of code compared to traditional JavaScript, making it easier to create interactive and dynamic websites. It's widely used across the web development community and has a large ecosystem of plugins and extensions.
+
+CDN -> Content Delivery Network (It is a network of servers distributed geographically to deliver web content more efficiently to users. CDN servers store cached copies of static resources, such as images, CSS files, JavaScript files, and other media, closer to users' geographical locations. When a user requests a resource, the CDN serves it from the nearest server rather than from the original server where the website is hosted. This reduces latency, improves page load times, and enhances the overall performance and availability of websites and web applications. CDN providers offer services that help optimize content delivery and ensure high availability and reliability.)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+jQuery CDN-If you don't want to download and host jQuery yourself, you can include it from a CDN (Content Delivery Network).
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+jQuery Syntax
